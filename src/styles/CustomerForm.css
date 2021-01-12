@@ -1,0 +1,27 @@
+.formRow {
+  padding: 10px;
+}
+
+.formLabel {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.formControl {
+  width: 100%;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.buttonContainer {
+  padding: 10px;
+  display: flex;
+}
+
+.button {
+  flex: 1;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}

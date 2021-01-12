@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+}
+
+.header {
+  position: fixed;
+  background-color: lightgray;
+  color: white;
+  top: 0;
+  width: 100%;
+  padding: 5px;
+}
+
+.contentContainer {
+  padding: 50px;
+}
+
+.navList {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* .navLink {
+  text-decoration: none;
+  color: black;
+} */

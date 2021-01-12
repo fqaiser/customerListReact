@@ -1,0 +1,14 @@
+.mainHeading {
+  padding: 10px;
+}
+
+.mainContainer {
+  width: 60%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.pageContainer {
+  flex: 1;
+}
